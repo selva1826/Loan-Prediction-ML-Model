@@ -11,9 +11,13 @@ The project leverages several key Python libraries for data processing, model tr
 
 Pandas: For data manipulation and preprocessing, including handling missing values and encoding categorical data.
 NumPy: For efficient array operations and numerical calculations.
+
 Scikit-learn: For implementing machine learning algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, Gradient Boosting) and evaluating metrics like accuracy, precision, recall, F1 score, and ROC-AUC.
+
 Matplotlib & Seaborn: For data visualization, helping to analyze distributions, correlations, and feature importance.
+
 XGBoost (if applicable): For high-performance gradient boosting, especially effective for tabular data.
+
 These libraries together provide a comprehensive framework for developing, training, and deploying a robust machine-learning model.
 
 ## Approach
