@@ -4,8 +4,8 @@ This project aims to develop a Loan Approval Prediction Model to automate and en
 
 ## Project Objectives
 Automate Loan Decision-Making: Streamline the loan approval process with predictive insights.
-### Optimize Risk Assessment: Identify key applicant features related to credit risk.
-### Enhance Fairness and Consistency: Reduce human biases by basing approvals on data-driven predictions.
+Optimize Risk Assessment: Identify key applicant features related to credit risk.
+Enhance Fairness and Consistency: Reduce human biases by basing approvals on data-driven predictions.
 ## Libraries Used
 The project leverages several key Python libraries for data processing, model training, evaluation, and visualization:
 
