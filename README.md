@@ -43,9 +43,13 @@ Code Efficiency
 To optimize runtime and memory usage:
 
 Efficient Data Processing: Pandas and NumPy enable quick manipulation of large datasets, reducing latency during preprocessing.
+
 Model Selection and Training: Leveraging Scikit-learn’s and XGBoost’s efficient implementations, the model training process is optimized for speed and memory use.
+
 Parallel Processing (if applicable): XGBoost and Random Forest models utilize parallelism, improving training time significantly.
+
 Pipeline Optimization: Using Scikit-learn’s pipelines for data preprocessing and model training ensures smooth, efficient code execution.
+
 The model achieves high efficiency by balancing accuracy with computational cost, making it scalable for large datasets and suitable for integration into real-time applications.
 
 ## Expected Outcomes
